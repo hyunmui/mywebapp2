@@ -7,5 +7,5 @@ import app.model.Post;
 
 @Repository
 public interface PostRepository extends JpaRepository<Post, Long> {
-    
+
 }
